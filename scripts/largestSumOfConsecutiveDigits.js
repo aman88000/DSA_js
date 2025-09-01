@@ -23,3 +23,4 @@ function findlargestSum(arr, num){
 }
 
 console.log(findlargestSum(arr, num))
+// time complexity = quardratic o(n^2)
